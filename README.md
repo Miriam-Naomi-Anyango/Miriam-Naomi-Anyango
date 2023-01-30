@@ -3,7 +3,7 @@
 
 **Full-Stack Developer**.
 
-I'm a Full-stach Developer and digital marketer, building my version of digital world one step at a time.
+I'm a Full-stack Developer and digital marketer, building my version of digital world one step at a time.
 All coding projects are built from ground up, from ideation, planning & designing to solving real-life problems with code.
 
 ***
