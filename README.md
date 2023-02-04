@@ -32,6 +32,7 @@ All coding projects are built from ground up, from ideation, planning & designin
 ![Miriam's stats](https://github-readme-stats.vercel.app/api?username=Miriam-Naomi-Anyango&show_icons=true&theme=radical)
 
 ***
+<!--
 ## Miriam's coding journey...
 "Learning to code is note just for coders". I believe every programmer is a self-taught programmer or if not had the most input in their programming journey and lifestyle because we cannot become a better programmer without hard work from our side. In 2022 I got an admission to study Full-Stack Software Engineering in the best tech school in Nairobi Kenya under Scholarship program. It was a six months bootcamp and the program was in patnership with America's Flatiron bootcamp and so was the curriculum.
 
@@ -61,7 +62,7 @@ Even if you have a computer science degree, you still have to:
 The embarrassment of an error lasts only for a few seconds. Learning from it can be forever, and trust me, it is worth it. Be consistent, CODE!
 
 ***
-
+-->
 
 - 🔭 I’m currently working on ...
 React & Ruby on Rails Projects.
